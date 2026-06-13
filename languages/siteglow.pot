@@ -1,0 +1,139 @@
+# Copyright (C) 2025 SiteGlow
+# This file is distributed under the same license as the SiteGlow plugin.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SiteGlow 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/siteglow\n"
+"POT-Creation-Date: 2025-06-13T00:00:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Domain: siteglow\n"
+
+#: includes/admin/dashboard.php
+msgid "Live Editor"
+msgstr ""
+
+#: includes/admin/dashboard.php
+msgid "SiteGlow"
+msgstr ""
+
+#: includes/admin/dashboard.php
+msgid "Live CSS/JS editing for the WordPress block editor &amp; customizer"
+msgstr ""
+
+#: includes/admin/dashboard.php
+msgid "Toggle floating editor"
+msgstr ""
+
+#: includes/admin/dashboard.php
+msgid "On"
+msgstr ""
+
+#: includes/admin/dashboard.php
+msgid "Off"
+msgstr ""
+
+#: includes/admin/dashboard.php
+msgid "Pages Styled"
+msgstr ""
+
+#: includes/admin/dashboard.php
+msgid "Header Templates"
+msgstr ""
+
+#: includes/admin/dashboard.php
+msgid "Footer Templates"
+msgstr ""
+
+#: includes/admin/dashboard.php
+msgid "Theme Variables"
+msgstr ""
+
+#: includes/admin/dashboard.php
+msgid "Settings saved."
+msgstr ""
+
+#: includes/admin/dashboard.php
+msgid "Error saving settings."
+msgstr ""
+
+#: includes/core/block-editor.php
+msgid "Live Edit"
+msgstr ""
+
+#: includes/core/header.php
+msgid "Header CSS"
+msgstr ""
+
+#: includes/core/header.php
+msgid "Header JavaScript"
+msgstr ""
+
+#: includes/core/header.php
+msgid "Header Template"
+msgstr ""
+
+#: includes/core/footer.php
+msgid "Footer CSS"
+msgstr ""
+
+#: includes/core/footer.php
+msgid "Footer JavaScript"
+msgstr ""
+
+#: includes/core/footer.php
+msgid "Footer Template"
+msgstr ""
+
+#: includes/core/typography.php
+msgid "Typography"
+msgstr ""
+
+#: includes/core/typography.php
+msgid "Font Family"
+msgstr ""
+
+#: includes/core/typography.php
+msgid "Font Size"
+msgstr ""
+
+#: includes/core/typography.php
+msgid "Font Weight"
+msgstr ""
+
+#: includes/core/typography.php
+msgid "Line Height"
+msgstr ""
+
+#: includes/core/typography.php
+msgid "Letter Spacing"
+msgstr ""
+
+#: includes/core/typography.php
+msgid "Color"
+msgstr ""
+
+#: includes/core/page-assets.php
+msgid "Page CSS"
+msgstr ""
+
+#: includes/core/page-assets.php
+msgid "Page JavaScript"
+msgstr ""
+
+#: includes/security/nonce.php
+msgid "Security check failed."
+msgstr ""
+
+#: includes/security/ajax.php
+msgid "Unauthorized."
+msgstr ""
